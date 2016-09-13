@@ -1,5 +1,5 @@
 full_rebuild: true
-name: Làm ván game
+name: One game only
 description: World of PES
 destination: jekyllbuild
 url: #place url
